@@ -1,6 +1,7 @@
+# A Simple C++ CGI App with Apache2
 
-FOR FASTCGI++
+<h4>To Run</h4>
+<pre>docker-compose up -d</pre>
 
-apt-get install libboost-all-dev
-
-https://github.com/eddic/fastcgipp
+<h4>To Build</h4>
+<pre>./build.sh</pre>
