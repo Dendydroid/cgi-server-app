@@ -1,0 +1,10 @@
+version: '3.1'
+
+services:
+
+  web:
+    image: cgi-server
+    ports:
+    - "80:80"
+    volumes:
+      - './app:/var/www/cgi-bin'
