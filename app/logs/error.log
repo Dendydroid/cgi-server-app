@@ -1,0 +1,16 @@
+[Thu Feb 25 00:08:59.960056 2021] [cgid:error] [pid 11:tid 140632685176576] [client 192.168.32.1:38840] End of script output before headers: index
+[Thu Feb 25 00:09:54.850634 2021] [cgid:error] [pid 12:tid 140632588805888] [client 192.168.32.1:38858] End of script output before headers: index
+[Thu Feb 25 00:12:37.435810 2021] [cgid:error] [pid 12:tid 140632597198592] [client 192.168.32.1:38990] End of script output before headers: index
+[Thu Feb 25 00:15:48.290693 2021] [cgid:error] [pid 12:tid 140632555235072] [client 192.168.32.1:39108] End of script output before headers: index
+[Thu Feb 25 00:17:04.883786 2021] [cgid:error] [pid 11:tid 140632454588160] [client 192.168.32.1:39142] End of script output before headers: index
+[Thu Feb 25 00:17:22.068736 2021] [cgid:error] [pid 11:tid 140632588805888] [client 192.168.32.1:39144] End of script output before headers: index
+[Thu Feb 25 00:21:46.981894 2021] [cgid:error] [pid 12:tid 140632555235072] [client 192.168.32.1:40156] AH01264: script not found or unable to stat: /var/www/cgi-bin/favicon.ico, referer: http://0.0.0.0/
+[Thu Feb 25 00:36:00.571586 2021] [cgid:error] [pid 12:tid 140631498278656] [client 192.168.32.1:47446] End of script output before headers: index
+[Thu Feb 25 00:36:54.706021 2021] [cgid:error] [pid 12:tid 140631473100544] [client 192.168.32.1:47892] End of script output before headers: index
+[Thu Feb 25 00:37:15.329443 2021] [cgid:error] [pid 12:tid 140630986585856] [client 192.168.32.1:47894] End of script output before headers: index
+[Thu Feb 25 00:37:28.197496 2021] [cgid:error] [pid 12:tid 140632685176576] [client 192.168.32.1:48070] End of script output before headers: index
+[Thu Feb 25 00:44:07.156015 2021] [cgid:error] [pid 12:tid 140632169367296] [client 192.168.32.1:51612] End of script output before headers: javascript.js, referer: http://0.0.0.0/
+[Thu Feb 25 00:44:55.718305 2021] [cgid:error] [pid 12:tid 140631515064064] [client 192.168.32.1:51614] End of script output before headers: javascript.js, referer: http://0.0.0.0/
+[Thu Feb 25 00:55:46.984253 2021] [cgid:error] [pid 11:tid 140632446195456] [client 192.168.32.1:57260] malformed header from script 'index': Bad header: <!DOCTYPE html>
+[Thu Feb 25 00:59:35.869138 2021] [cgid:error] [pid 11:tid 140631456347904] [client 192.168.32.1:59416] AH01264: script not found or unable to stat: /var/www/cgi-bin/favicon.ico, referer: http://0.0.0.0/
+[Thu Feb 25 01:04:30.024490 2021] [cgid:error] [pid 12:tid 140632572020480] [client 192.168.32.1:60844] Premature end of script headers: sse_data, referer: http://0.0.0.0/

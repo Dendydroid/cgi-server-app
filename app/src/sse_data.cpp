@@ -9,7 +9,7 @@ int main () {
 
    MainController *controller = new MainController();
 
-   controller->index();
+   controller->sse_data();
    
    return 0;
 }
